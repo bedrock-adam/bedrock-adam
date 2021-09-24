@@ -6,3 +6,5 @@
 - 💞️ I love helping aspiring programmers gain experience by fixing bugs and adding features in open source projects
 - 🌱 I help committed programmers break into tech via the [The Fast Tracked Programmer](https://discord.com/invite/VaH6yVGe53) discord community
 - 🔗 I am always open to connections via [Linked In](https://www.linkedin.com/in/adam-mikulasev-32690591/)
+
+<!--START_SECTION:activity-->
