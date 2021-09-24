@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/the-fast-tracked-programmer/github-activity-readme/issues/2) in [the-fast-tracked-programmer/github-activity-readme](https://github.com/the-fast-tracked-programmer/github-activity-readme)
-2. ❗️ Opened issue [#1](https://github.com/the-fast-tracked-programmer/github-activity-readme/issues/1) in [the-fast-tracked-programmer/github-activity-readme](https://github.com/the-fast-tracked-programmer/github-activity-readme)
-3. 🗣 Commented on [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-4. ❗️ Opened issue [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-5. 🎉 Merged PR [#87](https://github.com/the-fast-tracked-programmer/first-contributions/pull/87) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+1. ❗️ Closed issue [#88](https://github.com/the-fast-tracked-programmer/first-contributions/issues/88) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+2. ❗️ Opened issue [#88](https://github.com/the-fast-tracked-programmer/first-contributions/issues/88) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+3. ❗️ Opened issue [#2](https://github.com/the-fast-tracked-programmer/github-activity-readme/issues/2) in [the-fast-tracked-programmer/github-activity-readme](https://github.com/the-fast-tracked-programmer/github-activity-readme)
+4. ❗️ Opened issue [#1](https://github.com/the-fast-tracked-programmer/github-activity-readme/issues/1) in [the-fast-tracked-programmer/github-activity-readme](https://github.com/the-fast-tracked-programmer/github-activity-readme)
+5. 🗣 Commented on [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
