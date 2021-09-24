@@ -7,6 +7,8 @@
 - 🌱 I help committed programmers break into tech via the [The Fast Tracked Programmer](https://discord.com/invite/VaH6yVGe53) discord community
 - 🔗 I am always open to connections via [Linked In](https://www.linkedin.com/in/adam-mikulasev-32690591/)
 
+### My latest open source activity:
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#87](https://github.com/the-fast-tracked-programmer/first-contributions/pull/87) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
 2. ❗️ Closed issue [#63](https://github.com/the-fast-tracked-programmer/first-contributions/issues/63) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
