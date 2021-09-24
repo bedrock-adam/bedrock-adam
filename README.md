@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#87](https://github.com/the-fast-tracked-programmer/first-contributions/pull/87) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
-3. ❗️ Closed issue [#63](https://github.com/the-fast-tracked-programmer/first-contributions/issues/63) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
-4. 🎉 Merged PR [#75](https://github.com/the-fast-tracked-programmer/first-contributions/pull/75) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
-5. ❗️ Closed issue [#74](https://github.com/the-fast-tracked-programmer/first-contributions/issues/74) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+1. 🗣 Commented on [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. ❗️ Opened issue [#66](https://github.com/jamesgeorge007/github-activity-readme/issues/66) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+3. 🎉 Merged PR [#87](https://github.com/the-fast-tracked-programmer/first-contributions/pull/87) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+4. ❗️ Closed issue [#63](https://github.com/the-fast-tracked-programmer/first-contributions/issues/63) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+5. 🎉 Merged PR [#75](https://github.com/the-fast-tracked-programmer/first-contributions/pull/75) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
 <!--END_SECTION:activity-->
