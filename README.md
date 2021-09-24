@@ -8,3 +8,9 @@
 - 🔗 I am always open to connections via [Linked In](https://www.linkedin.com/in/adam-mikulasev-32690591/)
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#87](https://github.com/the-fast-tracked-programmer/first-contributions/pull/87) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+2. ❗️ Closed issue [#63](https://github.com/the-fast-tracked-programmer/first-contributions/issues/63) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+3. 🎉 Merged PR [#75](https://github.com/the-fast-tracked-programmer/first-contributions/pull/75) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+4. ❗️ Closed issue [#74](https://github.com/the-fast-tracked-programmer/first-contributions/issues/74) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+5. ❗️ Closed issue [#17](https://github.com/the-fast-tracked-programmer/first-contributions/issues/17) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+<!--END_SECTION:activity-->
