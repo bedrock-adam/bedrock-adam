@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#108](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/108) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-2. ❗️ Opened issue [#108](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/108) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-3. ❗️ Opened issue [#107](https://github.com/the-fast-tracked-programmer/first-contributions/issues/107) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
-4. ❗️ Opened issue [#106](https://github.com/the-fast-tracked-programmer/first-contributions/issues/106) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
-5. ❗️ Closed issue [#105](https://github.com/the-fast-tracked-programmer/first-contributions/issues/105) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+1. ❗️ Opened issue [#109](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/109) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+2. ❗️ Closed issue [#108](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/108) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+3. ❗️ Opened issue [#108](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/108) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+4. ❗️ Opened issue [#107](https://github.com/the-fast-tracked-programmer/first-contributions/issues/107) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
+5. ❗️ Opened issue [#106](https://github.com/the-fast-tracked-programmer/first-contributions/issues/106) in [the-fast-tracked-programmer/first-contributions](https://github.com/the-fast-tracked-programmer/first-contributions)
 <!--END_SECTION:activity-->
