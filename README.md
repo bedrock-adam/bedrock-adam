@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#126](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/126) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-2. ❗️ Opened issue [#125](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/125) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-3. ❗️ Closed issue [#122](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/122) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-4. ❗️ Closed issue [#123](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/123) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-5. ❗️ Opened issue [#123](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/123) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+1. ❗️ Opened issue [#127](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/127) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+2. ❗️ Opened issue [#126](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/126) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+3. ❗️ Opened issue [#125](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/125) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+4. ❗️ Closed issue [#122](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/122) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+5. ❗️ Closed issue [#123](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/123) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
 <!--END_SECTION:activity-->
