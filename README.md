@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#151](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/151) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-2. 🎉 Merged PR [#150](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/150) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+1. ❗️ Opened issue [#152](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/152) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+2. ❗️ Opened issue [#151](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/151) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
 3. 🎉 Merged PR [#150](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/150) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-4. ❗️ Opened issue [#149](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/149) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-5. ❗️ Closed issue [#144](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/144) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+4. 🎉 Merged PR [#150](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/150) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+5. ❗️ Opened issue [#149](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/149) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
 <!--END_SECTION:activity-->
