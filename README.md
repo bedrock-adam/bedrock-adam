@@ -10,9 +10,9 @@
 ### My latest open source activity:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#169](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/169) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-2. ❗️ Closed issue [#19](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/19) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-3. ❗️ Closed issue [#28](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/28) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-4. ❗️ Closed issue [#16](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/16) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
-5. 🎉 Merged PR [#160](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/160) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+1. 🎉 Merged PR [#164](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/164) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+2. 🎉 Merged PR [#164](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/164) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+3. ❗️ Opened issue [#171](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/171) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+4. ❗️ Closed issue [#169](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues/169) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
+5. 🎉 Merged PR [#170](https://github.com/the-fast-tracked-programmer/close-my-first-issue/pull/170) in [the-fast-tracked-programmer/close-my-first-issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue)
 <!--END_SECTION:activity-->
