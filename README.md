@@ -5,7 +5,7 @@
 - 💎 I am a massive fan of Ruby on Rails and Domain Driven Design
 - 💞️ I love helping aspiring programmers gain experience via open source projects
 - 🌱 I've helped many aspiring programmers break into tech in the [fast programmer](https://discord.com/invite/VaH6yVGe53) discord community
-- 🔗 I am always open to connections via [Linked In](https://www.linkedin.com/in/adam-mikulasev-32690591/)
+- 🔗 I am always open to connections via [linked in](https://www.linkedin.com/in/adam-mikulasev-32690591/)
 
 ### My latest open source activity:
 
