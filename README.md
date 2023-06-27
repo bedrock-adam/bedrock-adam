@@ -3,8 +3,8 @@
 - 🇦🇺 I live in Sydney, Australia
 - 👨‍💻 I have been helping startups build, grow and maintain their web based tech stacks for over 10 years
 - 💎 I am a massive fan of Ruby on Rails and Domain Driven Design
-- 💞️ I love helping aspiring programmers gain experience via open source projects
-- 🌱 I've helped many aspiring programmers break into tech in the [fast programmer](https://discord.com/invite/VaH6yVGe53) discord community
+- 🌱 I help aspiring programmers break into tech in the [fast programmer](https://discord.com/invite/VaH6yVGe53) discord community
+- 💞️ I love helping programmers gain experience via open source projects
 - 🔗 I am always open to connections via [linked in](https://www.linkedin.com/in/adam-mikulasev-32690591/)
 
 ### My latest open source activity:
